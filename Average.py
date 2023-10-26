@@ -1,0 +1,7 @@
+num1 = int(input("Give value of no1 = "))
+num2 = int(input("Give value of no2 = "))
+num3 = int(input("Give value of no3 = "))
+num4 = int(input("Give value of no4 = "))
+num5 = int(input("Give value of no5 =  "))
+average = (num1 + num2 + num3 + num4 + num5)
+print(average)
